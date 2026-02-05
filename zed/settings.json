@@ -1,0 +1,43 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run `zed: open default settings` from the
+// command palette (cmd-shift-p / ctrl-shift-p)
+{
+    "terminal": {
+        "cursor_shape": "underline",
+        "line_height": {
+            "custom": 2
+        }
+    },
+    "show_edit_predictions": false,
+    "icon_theme": "Symbols Icon Theme",
+    "buffer_line_height": {
+        "custom": 2
+    },
+    "buffer_font_family": "MonoLisa",
+    "wsl_connections": [
+        {
+            "distro_name": "Ubuntu",
+            "user": null,
+            "projects": []
+        }
+    ],
+    "telemetry": {
+        "diagnostics": false,
+        "metrics": false
+    },
+    "ui_font_size": 16,
+    "buffer_font_size": 14.0,
+    "theme": {
+        "mode": "system",
+        "light": "Ayu Light",
+        "dark": "Vesper"
+    },
+    "buffer_font_features": {
+        "calt": true
+    }
+}
